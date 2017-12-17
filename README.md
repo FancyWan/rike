@@ -1,10 +1,10 @@
-# rike
+# 日课网
 
-> A Vue.js project
+> 日行一课
 
-## Build Setup
+## 项目启动
 
-``` bash
+``` 
 # install dependencies
 npm install
 
@@ -18,4 +18,10 @@ npm run build
 npm run build --report
 ```
 
-For a detailed explanation on how things work, check out the [guide](http://vuejs-templates.github.io/webpack/) and [docs for vue-loader](http://vuejs.github.io/vue-loader).
+## 本地测试
+```
+# test address   
+http://localhost:10086/#/
+```
+
+
